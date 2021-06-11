@@ -792,7 +792,7 @@
 	"create.blockzapper.componentTier.brass": "Латунный",
 	"create.blockzapper.componentTier.chromatic": "Хроматический",
 	"create.blockzapper.leftClickToSet": "Щелкните ЛКМ по блоку, чтобы выбрать материал",
-	"create.blockzapper.empty": "Вне блоков!",
+	"create.blockzapper.empty": "Нет блоков!",
 
 	"create.minecart_coupling.two_couplings_max": "Вагонетки могут иметь только две связи",
 	"create.minecart_coupling.unloaded": "Кажется, часть вашего поезда в незагруженных чанках",
